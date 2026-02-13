@@ -1,4 +1,3 @@
-# granth-sudo.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
